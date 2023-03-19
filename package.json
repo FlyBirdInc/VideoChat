@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@videosdk.live/rtc-js-prebuilt": "^0.3.29"
+  }
+}
